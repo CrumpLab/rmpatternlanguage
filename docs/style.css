@@ -1,5 +1,5 @@
 @media {
-  .normal {width: 95%;}
+  .normal {width: 95% !Important;}
 }
 
 @font-face {
