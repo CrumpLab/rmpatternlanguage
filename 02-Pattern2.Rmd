@@ -70,7 +70,7 @@ knitr::include_graphics("imgs/1000_regions.png")
 <br><br></center>
 
 <!-- reiterate usage statement with connection to next pattern -->
-Remember, do this thing, as it feed into --THAT PATTERN...
+Remember, do this thing, as it feeds into --THAT PATTERN...
 
 <br><br>
 
