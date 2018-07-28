@@ -1,0 +1,36 @@
+--- 
+title: "A PATTERN LANGUAGE \n FOR R MARKDOWN"
+author: ""
+date: ""
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook:
+    css: style.css
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: CrumpLab/rmpatternlanguage
+description: "A Pattern Language Theme for R Markdown"
+---
+
+# A PATTERN LANGUAGE \n FOR R MARKDOWN {-.hideme}
+
+<div style="visibility: visible;">
+BIG PATTERNS. MEDIUM PATTERNS. USING PATTERNS
+
+Inspired by "A PATTERN LANGUAGE"
+</div>
+
+
+<div style="visibility: visible;">
+### ADDITIONAL INFORMATION
+
+This bookdown theme was written by Matt Crump. It is inspired by the book, "A PATTERN LANGUAGE", by Christopher Alexander, Sara Ishikawa, Murray Silverstein, also Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel.
+
+This is indeed an interesting book, worth reading to see a great example of a pattern language. Google pattern language and you can learn more about what it is, and how to make one. This is a theme to make your pattern language  in the same visual style and format as the original book.
+
+For the repo here [https://github.com/CrumpLab/rmpatternlanguage](https://github.com/CrumpLab/rmpatternlanguage). This is a minimal reproducible example. The formatting should be set-up to work, if you follow the templates in each chapter. Have fun!
+
+
+</div>

@@ -1,0 +1,10 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Pattern R Markdown</a></li>
+      after: |
+        <li><a href="https://github.com/CrumpLab/rmpatternlanguage" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/CrumpLab/rmpatternlanguage/blob/master/%s
+    download: ["pdf"]

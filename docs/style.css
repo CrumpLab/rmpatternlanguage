@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "et-book";
+  src: url("et-book/roman-line-figures.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: trado;
+    src: url(fonts/trado.ttf);
+}
+
+@font-face {
+    font-family: symbola;
+    src: url(fonts/Symbola_hint.woff);
+}
+
+
+body {
+    text-align: justify;
+    font-family: trado;
+    margin: 0 auto;
+    font-family: et-book;
+}
+
+.caption {
+  color: #777;
+  margin-top: 10px;
+}
+
+p {
+  font-family: symbola;
+  letter-spacing: .65px;
+  line-height: 1.2em;
+  white-space: inherit;
+  font-size: .8em;
+}
+
+strong {
+  letter-spacing: .1px !important;
+  font-size: 1em !important;
+}
+
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+
+pre code {
+  white-space: inherit;
+}
+
+h1 {
+  font-family: trado;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  letter-spacing: 3px;
+  font-family: trado;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+h3 {
+  letter-spacing: 3px;
+  font-family: trado;
+  font-size: 1.25em;
+  text-align: center;
+}
+
+.book .book-body .page-wrapper .page-inner section {
+  margin: auto;
+}
+
+.normal {
+  width: 500px;
+}
+
+.suggest {
+  margin: auto;
+  width: 300px;
+}
+
+.hideme {
+  visibility: hidden;
+}
+
