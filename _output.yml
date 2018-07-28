@@ -2,6 +2,7 @@ bookdown::gitbook:
   css: style.css
   config:
     toc:
+      collapse: true
       before: |
         <li><a href="./">Pattern R Markdown</a></li>
       after: |
