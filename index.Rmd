@@ -30,7 +30,11 @@ This bookdown theme was written by Matt Crump. It is inspired by the book, "A PA
 
 This is indeed an interesting book, worth reading to see a great example of a pattern language. Google pattern language and you can learn more about what it is, and how to make one. This is a theme to make your pattern language  in the same visual style and format as the original book.
 
-For the repo here [https://github.com/CrumpLab/rmpatternlanguage](https://github.com/CrumpLab/rmpatternlanguage). This is a minimal reproducible example. The formatting should be set-up to work, if you follow the templates in each chapter. Have fun!
+Fork the repo here:
+
+[https://github.com/CrumpLab/rmpatternlanguage](https://github.com/CrumpLab/rmpatternlanguage)
+
+This is a minimal reproducible example. The formatting should be set-up to work, if you follow the templates in each chapter. Have fun!
 
 
 </div>
