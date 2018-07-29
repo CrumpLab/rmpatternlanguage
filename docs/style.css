@@ -1,7 +1,3 @@
-@media {
-  .normal {width: 95% !Important;}
-}
-
 @font-face {
   font-family: "et-book";
   src: url("et-book/roman-line-figures.ttf") format("truetype");
